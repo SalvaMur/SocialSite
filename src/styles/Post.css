@@ -1,0 +1,21 @@
+.postImgContainer {
+	max-height: 300px;
+	overflow-y: hidden;
+}
+
+.postImg {
+	width: 90%;
+	margin-inline: 5%;
+}
+
+.postDesc {
+	margin: 0px;
+	margin-inline: 5%;
+	margin-block: 20px;
+}
+
+.postDate {
+	margin: 0px;
+	margin-inline: 5%;
+	text-align: left;
+}
